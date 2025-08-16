@@ -1,4 +1,4 @@
-# ONE - LiterAlura  
+# ONE - LiterAlura Challenge
 Projeto desenvolvido como parte do curso *Java e Spring Framework G8 - ONE*, do programa **Oracle Next Education (ONE)** em parceria com a **Alura**.
 
 ## Sobre o Projeto  
